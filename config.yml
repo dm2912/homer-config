@@ -124,6 +124,13 @@ services:
         tagstyle: "is-success"
         url: "https://airsonic.dimspace.xyz"
         target: '_blank'
+      - name: "Passbolt"
+        logo: "assets/tools/passbolt.png"
+        subtitle: "Secure password manager"
+        tag: "passwords"
+        tagstyle: "is-danger"
+        url: #
+        target: '_blank'
       - name: "Tiny Tiny RSS"
         logo: "assets/tools/ttrss2.png"
         subtitle: "OFFLINE"

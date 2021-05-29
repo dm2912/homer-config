@@ -129,7 +129,7 @@ services:
         subtitle: "Secure password manager"
         tag: "passwords"
         tagstyle: "is-danger"
-        url: #
+        url: "https://pass.dimspace.xyz/"
         target: '_blank'
       - name: "Tiny Tiny RSS"
         logo: "assets/tools/ttrss2.png"

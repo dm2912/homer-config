@@ -145,6 +145,13 @@ services:
         tagstyle: "is-danger"
         url: #
         target: '_blank'
+      - name: "Wallabag"
+        logo: "assets/tools/wallabag.png"
+        subtitle: "save webpages to read later"
+        tag: "pocket"
+        tagstyle: "is-success"
+        url: "#"
+        target: '_blank' 
   - name: "Useful Links"
     icon: "fas fa-server"
     items:

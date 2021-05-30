@@ -155,6 +155,13 @@ services:
         tagstyle: "is-danger"
         url: "https://www.linuxbabe.com/security/modsecurity-apache-debian-ubuntu"
         target: '_blank'
+      - name: "Fail 2 Ban"
+        logo: "assets/tools/fail2ban.png"
+        subtitle: "how to install on ubuntu"
+        tag: "security"
+        tagstyle: "is-danger"
+        url: "https://ubuntu.tutorials24x7.com/blog/how-to-install-fail2ban-on-ubuntu-20-04-lts"
+        target: '_blank'
   - name: "My Writing"
     icon: "fas fa-pen-alt"
     items:

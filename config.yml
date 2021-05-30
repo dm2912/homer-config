@@ -89,7 +89,7 @@ services:
         tag: "admin"
       - name: "Privatebin"
         logo: "assets/tools/privatebin.png"
-        subtitle: "Secure self-hosted pastebin"
+        subtitle: "secure self-hosted pastebin"
         tag: "text"
         tagstyle: "is-success"
         url: "https://bin.dimspace.xyz"
@@ -103,7 +103,7 @@ services:
         target: '_blank'
       - name: "PHPmyadmin"
         logo: "assets/tools/phpmyadmin.png"
-        subtitle: "Database management"
+        subtitle: "database management"
         tag: "database"
         tagstyle: "is-warning"
         url: "https://pma.dimspace.xyz"
@@ -126,7 +126,7 @@ services:
         target: '_blank'
       - name: "Passbolt"
         logo: "assets/tools/passbolt.png"
-        subtitle: "Secure password manager"
+        subtitle: "secure password manager"
         tag: "passwords"
         tagstyle: "is-danger"
         url: "https://pass.dimspace.xyz/"
@@ -145,7 +145,17 @@ services:
         tagstyle: "is-danger"
         url: #
         target: '_blank'
-  - name: "Writing"
+  - name: "Useful Links"
+    icon: "fas fa-server"
+    items:
+      - name: "Mod Security"
+        logo: "assets/tools/modsecurity.png"
+        subtitle: "how to install on ubuntu"
+        tag: "security"
+        tagstyle: "is-danger"
+        url: "https://www.linuxbabe.com/security/modsecurity-apache-debian-ubuntu"
+        target: '_blank'
+  - name: "My Writing"
     icon: "fas fa-pen-alt"
     items:
       - name: "Blog"

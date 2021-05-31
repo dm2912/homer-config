@@ -149,9 +149,16 @@ services:
         logo: "assets/tools/wallabag.png"
         subtitle: "save webpages to read later"
         tag: "pocket"
-        tagstyle: "is-success"
+        tagstyle: "is-danger"
         url: "#"
         target: '_blank' 
+      - name: "Shaarli"
+        logo: "assets/tools/shaarli.png"
+        subtitle: "simple link sharing"
+        tag: "links"
+        tagstyle: "is-success"
+        url: "https://links.dimspace.xyz"
+        target: '_blank'
   - name: "Useful Links"
     icon: "fas fa-server"
     items:

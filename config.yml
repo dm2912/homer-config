@@ -131,27 +131,27 @@ services:
         tagstyle: "is-danger"
         url: "https://pass.dimspace.xyz/"
         target: '_blank'
-      - name: "Tiny Tiny RSS"
-        logo: "assets/tools/ttrss2.png"
-        subtitle: "OFFLINE"
-        tag: "news"
-        tagstyle: "is-danger"
-        url: #
-        target: '_blank'
-      - name: "Bookstack"
-        logo: "assets/tools/bookstack.png"
-        subtitle: "OFFLINE"
-        tag: "books"
-        tagstyle: "is-danger"
-        url: #
-        target: '_blank'
-      - name: "Wallabag"
-        logo: "assets/tools/wallabag.png"
-        subtitle: "save webpages to read later"
-        tag: "pocket"
-        tagstyle: "is-danger"
-        url: "#"
-        target: '_blank' 
+#      - name: "Tiny Tiny RSS"
+#        logo: "assets/tools/ttrss2.png"
+#        subtitle: "OFFLINE"
+#        tag: "news"
+#        tagstyle: "is-danger"
+#        url: #
+#        target: '_blank'
+#      - name: "Bookstack"
+#        logo: "assets/tools/bookstack.png"
+#        subtitle: "OFFLINE"
+#        tag: "books"
+#        tagstyle: "is-danger"
+#        url: #
+#        target: '_blank'
+#      - name: "Wallabag"
+#        logo: "assets/tools/wallabag.png"
+#        subtitle: "save webpages to read later"
+#        tag: "pocket"
+#        tagstyle: "is-danger"
+#        url: "#"
+#        target: '_blank' 
       - name: "Shaarli"
         logo: "assets/tools/shaarli.png"
         subtitle: "simple link sharing"

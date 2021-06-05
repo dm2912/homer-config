@@ -159,6 +159,13 @@ services:
         tagstyle: "is-success"
         url: "https://links.dimspace.xyz"
         target: '_blank'
+      - name: "YaCy"
+        logo: "assets/tools/yacy.png"
+        subtitle: "decentralised, p2p search engine"
+        tag: "search"
+        tagstyle: "is-success"
+        url: "https://yacy.dimspace.xyz"
+        target: '_blank'
   - name: "Useful Links"
     icon: "fas fa-server"
     items:

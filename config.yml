@@ -131,13 +131,13 @@ services:
         tagstyle: "is-danger"
         url: "https://pass.dimspace.xyz/"
         target: '_blank'
-#      - name: "Tiny Tiny RSS"
-#        logo: "assets/tools/ttrss2.png"
-#        subtitle: "OFFLINE"
-#        tag: "news"
-#        tagstyle: "is-danger"
-#        url: #
-#        target: '_blank'
+      - name: "Fresh RSS"
+        logo: "assets/tools/freshrss.png"
+        subtitle: "self hosted feed reader"
+        tag: "rss"
+        tagstyle: "is-success"
+        url: "https://rss.dimspace.xyz"
+        target: '_blank'
 #      - name: "Bookstack"
 #        logo: "assets/tools/bookstack.png"
 #        subtitle: "OFFLINE"

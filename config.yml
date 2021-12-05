@@ -87,6 +87,13 @@ services:
         target: '_blank' 
         tagstyle: "is-warning"
         tag: "admin"
+      - name: "Duplicati"
+        logo: "assets/tools/duplicati.png"
+        subtitle: "create and manage backups"
+        url: "http://192.168.1.248:8400/"
+        target: '_blank' 
+        tagstyle: "is-warning"
+        tag: "admin"
       - name: "Privatebin"
         logo: "assets/tools/privatebin.png"
         subtitle: "secure self-hosted pastebin"
@@ -164,7 +171,7 @@ services:
         subtitle: "decentralised, p2p search engine"
         tag: "search"
         tagstyle: "is-success"
-        url: "https://yacy.dimspace.xyz"
+        url: "https://search.dimspace.xyz"
         target: '_blank'
   - name: "Useful Links"
     icon: "fas fa-server"
@@ -198,14 +205,14 @@ services:
         subtitle: "my work on the bodylock mma"
         tag: "mma"
         url: "https://thebodylockmma.com/author/davemarsdin/"
-        target: '_blank' 	
+        target: '_blank' 
       - name: "Cyclismas"
         #logo: "assets/tools/tbl.png"
         icon: "fas fa-bicycle"
         subtitle: "old cycling ramblings"
         tag: "cycling"
         url: "http://www.cyclismas.com/biscuits/author/dimspace/"
-        target: '_blank' 	
+        target: '_blank' 
   - name: "Social"
     icon: "fas fa-thumbs-up"
     items:
@@ -214,7 +221,7 @@ services:
         subtitle: "follow me on twitter"
         tag: "tweet"
         url: "https://twitter.com/dimspace"
-        target: '_blank' 	
+        target: '_blank' 
       - name: "Facebook"
         logo: "assets/tools/facebook.png"
         subtitle: "i don't use this much"

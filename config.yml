@@ -145,6 +145,13 @@ services:
         tagstyle: "is-success"
         url: "https://rss.dimspace.xyz"
         target: '_blank'
+      - name: "Gitea"
+        logo: "assets/tools/gitea.png"
+        subtitle: "self hosted git"
+        tag: "git"
+        tagstyle: "is-success"
+        url: "https://git.dimspace.xyz"
+        target: '_blank'
 #      - name: "Bookstack"
 #        logo: "assets/tools/bookstack.png"
 #        subtitle: "OFFLINE"
@@ -276,6 +283,13 @@ services:
         tag: "git"
         url: "http://github.com/dm2912"
         target: '_blank' 
+      - name: "Gitea"
+        logo: "assets/tools/gitea.png"
+        subtitle: "self hosted git"
+        tag: "git"
+        tagstyle: "is-success"
+        url: "https://git.dimspace.xyz"
+        target: '_blank'
       - name: "Userstyles"
         logo: "assets/tools/userstyles.png"
         subtitle: "my custom styles on userstyles"
